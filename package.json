@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-middleware-hard-disk",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "author": "Tobias Koppers @sokra",
   "description": "webpack-dev-middleware 的 fork 版本，可在 dev 时，将编译结果，保存配置的 output path 路径中",
   "peerDependencies": {
