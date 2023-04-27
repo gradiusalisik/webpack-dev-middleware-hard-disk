@@ -23,7 +23,7 @@
     "should": "^11.1.0",
     "sinon": "^2.3.8",
     "supertest": "^3.0.0",
-    "webpack": "^3.0.0"
+    "webpack": "^5.81.0"
   },
   "license": "MIT",
   "engines": {
